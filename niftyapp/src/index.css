@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+
+.custom-range::-webkit-slider-thumb {
+    background: black;
+    transform: translateY(-50%);
+  }
+
+a:hover{
+  border-bottom: 1px solid ;
+}
+
+
+
+#chart{
+  height: 100vh;
+}
+
+.herotext{
+    font-size: 45px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+ 
+  
