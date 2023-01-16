@@ -45,7 +45,7 @@ const Dashboard = () => {
           <div className="col-md-6 py-2 mb-4">
             <h1 className="herotext fw-bold">17,992.15</h1>
             <p className="fs-3 fw-bold text-success"><span className="fs-3"><FontAwesomeIcon icon={faCaretUp} /></span> 133.95(0.64)</p>
-            <p className="fs-5">As on 14 jan, 2023 13:25 IST</p>
+            <p className="fs-5 text-muted">As on 14 jan, 2023 13:25 IST</p>
           </div>
           <div className="col-md-6">
             <div>
