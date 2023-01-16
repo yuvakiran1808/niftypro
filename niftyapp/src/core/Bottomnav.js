@@ -20,7 +20,7 @@ const Bottomnav = () => {
           </button>
           <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div className="navbar-nav d-flex justify-content-around  w-100">
-              <Link  className = "nav-link text-dark" aria-current="page" to="/dashboard" >
+              <Link  className = "nav-link text-dark" aria-current="page" to="/" >
               OVERVIEW
               </Link>
               <Link className="nav-link text-dark" to="/dashboard/chart">
